@@ -1,0 +1,51 @@
+id,title,neighborhood,address,price,bed,bath,sqft,y_built,ren_y,ch_s,fire,listing_status,created_at
+1,Chance Apartment,borough,87552 Marquez Ford,646488.20,4,2.0,1186,2012,,3,f,pending,2026-07-22 01:19:12.109672
+2,Next Apartment,chester,336 Lee Ranch Apt. 629,556035.46,4,1.5,1920,2008,,8,t,sold,2026-07-22 01:19:12.109672
+3,Perhaps Apartment,fort,484 Jason Throughway,583967.32,4,2.0,3101,1954,2014,2,f,sold,2026-07-22 01:19:12.109672
+4,Moment Apartment,stad,2857 Linda Rest Suite 206,296610.18,2,1.5,1650,1950,,1,t,sold,2026-07-22 01:19:12.109672
+5,Little Apartment,burgh,233 Robert Flat,185824.83,2,1.5,1899,1965,,1,f,pending,2026-07-22 01:19:12.109672
+6,Sister Apartment,haven,57867 Merritt Port Apt. 813,455143.63,2,1.0,2266,2002,2013,1,f,sold,2026-07-22 01:19:12.109672
+7,Go Apartment,port,0891 Carlson Mount,382994.41,2,2.0,3390,1992,2013,5,f,active,2026-07-22 01:19:12.109672
+8,Can Apartment,mouth,688 Susan Course,264281.22,4,1.0,2696,2019,2015,7,t,sold,2026-07-22 01:19:12.109672
+9,Give Apartment,furt,76703 Berry Square Apt. 137,738740.97,5,3.0,2643,1984,2019,9,f,pending,2026-07-22 01:19:12.109672
+10,Green Apartment,stad,72732 Richard Union,423844.83,1,1.0,1306,1987,2014,4,f,active,2026-07-22 01:19:12.109672
+11,Magazine Apartment,port,935 Tyrone Landing,367726.14,5,3.0,706,1965,,5,t,pending,2026-07-22 01:19:12.109672
+12,Detail Apartment,stad,596 Callahan Mountains Apt. 236,370209.00,5,1.0,2317,1987,,9,t,active,2026-07-22 01:19:12.109672
+13,Part Apartment,burgh,7889 Gregory Burg Suite 568,211189.70,1,3.0,2944,1994,,9,f,pending,2026-07-22 01:19:12.109672
+14,Represent Apartment,borough,0772 Brown Meadows,799705.44,3,2.0,1472,1979,2019,2,t,sold,2026-07-22 01:19:12.109672
+15,Middle Apartment,fort,27437 Calhoun Stream Suite 841,332632.90,4,1.0,1844,2020,2021,8,t,sold,2026-07-22 01:19:12.109672
+16,Analysis Apartment,ton,2117 Michael Track Suite 852,326358.95,5,2.5,1317,1957,2012,4,f,active,2026-07-22 01:19:12.109672
+18,Fine Apartment,stad,065 Johnson Plains Suite 441,712484.31,4,3.0,1265,2014,,6,f,active,2026-07-22 01:19:12.109672
+19,Lead Apartment,fort,48075 Erin Mountain Apt. 200,759461.61,3,2.0,1747,1963,2013,10,f,sold,2026-07-22 01:19:12.109672
+20,Approach Apartment,chester,5056 Saunders Square,666550.80,3,1.0,3215,2016,2014,8,f,pending,2026-07-22 01:19:12.109672
+21,Book Apartment,furt,3521 Jensen Throughway Apt. 540,534305.65,4,1.0,2144,2010,,3,f,active,2026-07-22 01:19:12.109672
+22,I Apartment,stad,2307 Schultz Crest,300253.96,5,1.5,1355,1969,,6,t,active,2026-07-22 01:19:12.109672
+23,Visit Apartment,furt,481 Ray Dam Apt. 159,355098.91,5,2.5,2630,1966,2023,9,f,active,2026-07-22 01:19:12.109672
+24,Us Apartment,berg,921 Garcia Orchard Suite 832,289693.55,5,3.0,3142,1992,,9,f,active,2026-07-22 01:19:12.109672
+25,Avoid Apartment,mouth,38551 Blackwell Station,354675.49,5,2.0,2830,2018,2021,1,t,sold,2026-07-22 01:19:12.109672
+26,Sign Apartment,berg,79130 Chapman Wells Suite 305,417593.19,4,2.5,1995,1987,2013,10,f,active,2026-07-22 01:19:12.109672
+27,Anyone Apartment,shire,57725 Carlson Island Apt. 301,641569.48,4,1.0,614,1971,2012,7,f,pending,2026-07-22 01:19:12.109672
+28,Hit Apartment,side,5958 Ronnie Mount,651029.53,4,1.0,2463,2010,,3,f,pending,2026-07-22 01:19:12.109672
+29,Court Apartment,burgh,2518 Kylie Land,369596.22,2,2.0,1721,1993,2018,8,f,active,2026-07-22 01:19:12.109672
+30,Customer Apartment,stad,8919 Frazier Shore,725927.00,5,2.0,942,1952,,9,t,active,2026-07-22 01:19:12.109672
+31,Right Apartment,town,296 Lori Light,319580.09,3,1.5,1786,1984,,7,f,pending,2026-07-22 01:19:12.109672
+32,Financial Apartment,port,160 Maria Street,318638.03,3,2.5,978,1969,,5,t,sold,2026-07-22 01:19:12.109672
+33,Even Apartment,side,4442 Rose Dale Suite 927,716289.93,1,2.0,1222,1960,,10,t,pending,2026-07-22 01:19:12.109672
+34,Hot Apartment,view,6413 Steven Alley,185558.85,5,3.0,3365,1963,,8,t,pending,2026-07-22 01:19:12.109672
+35,Without Apartment,berg,8284 Dylan Rapids Apt. 708,678119.68,3,1.5,2017,1976,,10,f,active,2026-07-22 01:19:12.109672
+36,Doctor Apartment,borough,606 William Springs,823819.98,1,1.0,3307,1985,,5,t,sold,2026-07-22 01:19:12.109672
+37,Test Apartment,mouth,6952 Lori Mountains Suite 866,436468.71,5,2.0,754,2010,,3,t,pending,2026-07-22 01:19:12.109672
+38,Magazine Apartment,fort,46518 Dixon Point,374935.97,3,2.0,2035,2022,2014,2,t,pending,2026-07-22 01:19:12.109672
+39,Law Apartment,fort,89514 Jamie Harbors,830155.77,5,2.0,654,1951,,4,t,active,2026-07-22 01:19:12.109672
+40,Thought Apartment,haven,23166 Jeremy Ridges Apt. 091,768007.04,1,3.0,3063,1987,2015,6,t,pending,2026-07-22 01:19:12.109672
+41,Job Apartment,port,2253 Patel Park Suite 420,515856.05,1,2.5,635,1968,,3,f,active,2026-07-22 01:19:12.109672
+42,Detail Apartment,ville,42577 Decker Views,290615.38,2,3.0,2104,2002,2018,2,f,pending,2026-07-22 01:19:12.109672
+43,Business Apartment,bury,1384 Hernandez Run Suite 632,294081.94,3,3.0,781,2017,,1,f,active,2026-07-22 01:19:12.109672
+44,As Apartment,fort,1949 Simon Springs,408368.61,2,2.0,613,2017,,6,t,sold,2026-07-22 01:19:12.109672
+45,Consumer Apartment,mouth,705 Margaret Inlet,356149.42,5,3.0,1422,1981,2016,8,f,sold,2026-07-22 01:19:12.109672
+46,Defense Apartment,berg,26533 Simpson Ridge,792781.73,1,2.0,1655,1984,,1,t,active,2026-07-22 01:19:12.109672
+47,Newspaper Apartment,port,88460 Love Mountains,228395.58,3,2.5,1167,2010,,5,t,active,2026-07-22 01:19:12.109672
+48,Off Apartment,town,39518 Buckley Wall,347836.73,1,2.0,2344,2005,2016,3,t,sold,2026-07-22 01:19:12.109672
+50,Easy Apartment,ville,369 Matthew Manor Suite 612,699804.52,5,2.5,3201,1998,2021,7,t,pending,2026-07-22 01:19:12.109672
+17,Wait Apartment,winter,84921 Hatfield Bypass,822619.47,3,1.5,1194,1952,,8,t,active,2026-07-22 01:19:12.109672
+49,Parent Apartment,beautiful,8967 Lindsey Summit,850000.00,4,1.5,2287,2009,,4,f,active,2026-07-22 01:19:12.109672
